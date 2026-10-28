@@ -1,0 +1,10 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.EasyBlueprintWarningsEditor.cpp.obj": [
+			"PerModuleInline.gen.cpp.obj",
+			"EasyBlueprintWarningsEditorModule.cpp.obj",
+			"SBlueprintWarningDialog.cpp.obj"
+		]
+	}
+}

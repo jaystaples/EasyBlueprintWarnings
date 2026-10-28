@@ -1,0 +1,8 @@
+{
+	"BuildId": "47537391",
+	"Modules": 
+	{
+		"EasyBlueprintWarnings": "UnrealEditor-EasyBlueprintWarnings.dll",
+		"EasyBlueprintWarningsEditor": "UnrealEditor-EasyBlueprintWarningsEditor.dll"
+	}
+}

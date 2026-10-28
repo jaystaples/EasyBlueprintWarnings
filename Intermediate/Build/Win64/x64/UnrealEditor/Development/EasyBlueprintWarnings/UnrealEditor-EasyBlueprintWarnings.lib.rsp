@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-EasyBlueprintWarnings.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"U:/Projects/BeyondTheFrame/beyond-the-frame-main/Unreal/Intermediate/Build/Win64/x64/BeyondTheFrameEditor/Development/UnrealEd/SharedPCH.UnrealEd.Project.ValApi.ValExpApi.Cpp20.InclOrderUnreal5_4.h.obj"
+"U:/Projects/BeyondTheFrame/beyond-the-frame-main/Unreal/Plugins/EasyBlueprintWarnings/Intermediate/Build/Win64/x64/UnrealEditor/Development/EasyBlueprintWarnings/Module.EasyBlueprintWarnings.cpp.obj"
+"U:/Projects/BeyondTheFrame/beyond-the-frame-main/Unreal/Plugins/EasyBlueprintWarnings/Intermediate/Build/Win64/x64/UnrealEditor/Development/EasyBlueprintWarnings/EasyBlueprintWarningsLibrary.cpp.obj"
+"U:/Projects/BeyondTheFrame/beyond-the-frame-main/Unreal/Plugins/EasyBlueprintWarnings/Intermediate/Build/Win64/x64/UnrealEditor/Development/EasyBlueprintWarnings/EasyBlueprintWarningsModule.cpp.obj"
+"U:/Projects/BeyondTheFrame/beyond-the-frame-main/Unreal/Plugins/EasyBlueprintWarnings/Intermediate/Build/Win64/x64/UnrealEditor/Development/EasyBlueprintWarnings/Default.rc2.res"
+/OUT:"U:/Projects/BeyondTheFrame/beyond-the-frame-main/Unreal/Plugins/EasyBlueprintWarnings/Intermediate/Build/Win64/x64/UnrealEditor/Development/EasyBlueprintWarnings/UnrealEditor-EasyBlueprintWarnings.lib"

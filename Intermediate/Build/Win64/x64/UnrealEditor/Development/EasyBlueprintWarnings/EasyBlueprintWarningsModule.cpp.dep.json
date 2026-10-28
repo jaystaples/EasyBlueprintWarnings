@@ -1,0 +1,13 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easyblueprintwarnings\\source\\easyblueprintwarnings\\private\\easyblueprintwarningsmodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\intermediate\\build\\win64\\x64\\beyondtheframeeditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_4.h.pch",
+        "Includes": [
+            "u:\\projects\\beyondtheframe\\beyond-the-frame-main\\unreal\\plugins\\easyblueprintwarnings\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\easyblueprintwarnings\\definitions.easyblueprintwarnings.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
