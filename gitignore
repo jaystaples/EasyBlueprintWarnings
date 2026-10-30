@@ -1,0 +1,15 @@
+# Unreal build output
+Binaries/
+Intermediate/
+Saved/
+DerivedDataCache/
+
+# IDE / OS junk
+.vs/
+.idea/
+*.sln
+*.suo
+*.VC.db
+*.opensdf
+.DS_Store
+Thumbs.db
