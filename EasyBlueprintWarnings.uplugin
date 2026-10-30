@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0",
+	"VersionName": "0.1.0",
 	"FriendlyName": "Easy Blueprint Warnings",
 	"Description": "Blueprint Warning node. Pauses Play In Editor with a Continue / Retry / Stop pop-up when an execution path that should never happen is hit.",
 	"Category": "Development",
@@ -18,5 +18,12 @@
 			"Type": "Editor",
 			"LoadingPhase": "Default"
 		}
-	]
+	],
+	"CreatedBy": "Jay Badcock",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false
 }
